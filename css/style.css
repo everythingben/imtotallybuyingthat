@@ -1,0 +1,126 @@
+html body {
+  margin: 0;
+  background-color: #f0f0f0;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif; }
+  html body #siteHeader {
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: #9A02FF;
+    z-index: 100;
+    font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    font-weight: normal;
+    text-transform: uppercase;
+    padding: 20px 0; }
+    html body #siteHeader h1 {
+      margin: 0;
+      padding: 0; }
+      html body #siteHeader h1 a {
+        text-decoration: none;
+        color: white; }
+    html body #siteHeader #filterList {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      margin-top: 10px; }
+      @media only screen and (max-width: 600px) {
+        html body #siteHeader #filterList {
+          display: none; } }
+      html body #siteHeader #filterList li {
+        display: inline;
+        padding: 0px 10px;
+        border-right: 2px solid white; }
+        html body #siteHeader #filterList li:last-child {
+          border-right: none; }
+        html body #siteHeader #filterList li a {
+          text-decoration: none;
+          color: white; }
+  html body .productLink {
+    border-radius: 3px;
+    text-decoration: none;
+    background-color: #9A02FF;
+    color: white;
+    padding: 8px;
+    float: right; }
+  html body #content {
+    max-width: 1200px;
+    position: absolute;
+    top: 140px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto; }
+    @media only screen and (max-width: 600px) {
+      html body #content {
+        top: 105px; } }
+    html body #content #masonryContainer {
+      margin: 0 auto; }
+      html body #content #masonryContainer .listCard {
+        background-color: white;
+        border-radius: 3px;
+        width: 225px;
+        margin-bottom: 20px;
+        padding: 20px; }
+        html body #content #masonryContainer .listCard .title {
+          text-align: center;
+          font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
+          font-size: 1.5rem;
+          font-weight: normal; }
+          html body #content #masonryContainer .listCard .title a {
+            text-decoration: none;
+            color: black; }
+        html body #content #masonryContainer .listCard .description {
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis; }
+        html body #content #masonryContainer .listCard img {
+          display: block;
+          margin: auto;
+          max-height: 100%;
+          max-width: 100%; }
+        html body #content #masonryContainer .listCard .tileFooter {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          border-top: 1px solid #666666;
+          padding-top: 20px;
+          margin-top: 20px; }
+          html body #content #masonryContainer .listCard .tileFooter .price {
+            font-weight: bold;
+            font-size: 1.1rem; }
+    html body #content .postWrapper {
+      text-align: center; }
+      html body #content .postWrapper .wrapper {
+        text-align: left;
+        padding: 40px;
+        background-color: white;
+        border-radius: 3px;
+        display: inline-block; }
+        html body #content .postWrapper .wrapper .flexContainer {
+          display: flex;
+          justify-content: center; }
+          html body #content .postWrapper .wrapper .flexContainer img {
+            max-height: 400px;
+            max-width: 400px; }
+          html body #content .postWrapper .wrapper .flexContainer .postContent {
+            width: 500px;
+            padding-left: 30px; }
+            html body #content .postWrapper .wrapper .flexContainer .postContent .title {
+              font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
+              font-size: 1.5rem;
+              font-weight: normal; }
+              html body #content .postWrapper .wrapper .flexContainer .postContent .title a {
+                text-decoration: none;
+                color: black; }
+            html body #content .postWrapper .wrapper .flexContainer .postContent .tileFooter {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              border-top: 1px solid #666666;
+              padding-top: 20px; }
+              html body #content .postWrapper .wrapper .flexContainer .postContent .tileFooter .price {
+                font-weight: bold;
+                font-size: 1.1rem;
+                padding-right: 30px; }
