@@ -78,4 +78,6 @@ theme: jackpot
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/everythingben/weirdthingsforsale.git
+  branch: master
