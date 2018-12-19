@@ -1,0 +1,9 @@
+---
+title: Unicorn Meat
+date: 2018-12-17 14:53:25
+imageUrl: https://images-na.ssl-images-amazon.com/images/I/51Ok0UGbDOL.jpg
+productLink: https://www.amazon.com/ThinkGeek-Easy-Open-Canned-Unicorn-Meat/dp/B0089KZPNU
+price: $17.00
+---
+
+Unicorn meat! Mmmmm. But seriously, this is just a stuffed unicorn in a can. The bottom is removable so you won't need a can opener. A great gift for sadists and gullible unicorn lovers.
