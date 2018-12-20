@@ -91,7 +91,7 @@ html body {
           padding-top: 20px;
           margin-top: 20px; }
           html body #content #masonryContainer .listCard .tileFooter .price {
-            font-weight: bold;
+            font-weight: 600;
             font-size: 1.1rem; }
     html body #content .postWrapper {
       text-align: center; }
