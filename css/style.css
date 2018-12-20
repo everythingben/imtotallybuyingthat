@@ -10,13 +10,16 @@ html body {
     z-index: 100;
     font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
     letter-spacing: 2px;
-    font-size: 1rem;
     font-weight: normal;
     text-transform: uppercase;
     padding: 20px 0; }
     html body #siteHeader h1 {
       margin: 0;
-      padding: 0; }
+      padding: 0;
+      font-size: 2rem; }
+      @media only screen and (max-width: 600px) {
+        html body #siteHeader h1 {
+          font-size: 1.5rem; } }
       html body #siteHeader h1 a {
         text-decoration: none;
         color: white; }
@@ -54,7 +57,7 @@ html body {
     margin: auto; }
     @media only screen and (max-width: 600px) {
       html body #content {
-        top: 105px; } }
+        top: 95px; } }
     html body #content #masonryContainer {
       margin: 0 auto; }
       html body #content #masonryContainer .listCard {
@@ -92,10 +95,16 @@ html body {
             font-size: 1.1rem; }
     html body #content .postWrapper {
       text-align: center; }
+      @media only screen and (max-width: 600px) {
+        html body #content .postWrapper {
+          display: none; } }
       html body #content .postWrapper .wrapper {
         text-align: left;
         padding: 40px;
         background-color: white;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
         border-radius: 3px;
         display: inline-block; }
         html body #content .postWrapper .wrapper .flexContainer {
@@ -105,7 +114,7 @@ html body {
             max-height: 400px;
             max-width: 400px; }
           html body #content .postWrapper .wrapper .flexContainer .postContent {
-            width: 500px;
+            max-width: 500px;
             padding-left: 30px; }
             html body #content .postWrapper .wrapper .flexContainer .postContent .title {
               font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
@@ -124,3 +133,40 @@ html body {
                 font-weight: bold;
                 font-size: 1.1rem;
                 padding-right: 30px; }
+    html body #content .smallPostWrapper {
+      background-color: white;
+      border-radius: 3px;
+      margin-bottom: 20px;
+      margin-left: 20px;
+      margin-right: 20px;
+      padding: 20px; }
+      @media only screen and (min-width: 601px) {
+        html body #content .smallPostWrapper {
+          display: none; } }
+      html body #content .smallPostWrapper .title {
+        text-align: center;
+        font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 1.5rem;
+        font-weight: normal; }
+        html body #content .smallPostWrapper .title a {
+          text-decoration: none;
+          color: black; }
+      html body #content .smallPostWrapper .description {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis; }
+      html body #content .smallPostWrapper img {
+        display: block;
+        margin: auto;
+        max-height: 300px;
+        max-width: 300px; }
+      html body #content .smallPostWrapper .tileFooter {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border-top: 1px solid #666666;
+        padding-top: 20px;
+        margin-top: 20px; }
+        html body #content .smallPostWrapper .tileFooter .price {
+          font-weight: bold;
+          font-size: 1.1rem; }
