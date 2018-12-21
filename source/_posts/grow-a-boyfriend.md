@@ -2,7 +2,7 @@
 title: Grow a Boyfriend
 date: 2018-12-18 09:29:07
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61Pz5zJdgaL._SY879_.jpg
-productLink: https://www.amazon.com/Forum-Novelties-Grow-Boyfriend-Novelty/dp/B0090U47KA
+productLink: https://amzn.to/2QJblHP
 price: $5.39
 tags:
 - funny

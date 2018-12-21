@@ -2,7 +2,7 @@
 title: Yodeling Pickle
 date: 2018-12-18 09:38:22
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/31TjjQLqzIL.jpg
-productLink: https://www.amazon.com/Accoutrements-11761-Yodelling-Pickle/dp/B0010VS078
+productLink: https://amzn.to/2V3Va6r
 price: $59.96
 tags:
 - funny

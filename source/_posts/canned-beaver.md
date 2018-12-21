@@ -2,7 +2,7 @@
 title: Canned Beaver
 date: 2018-12-18 09:23:57
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/81XSmCBvYSL._SY355_.jpg
-productLink: https://www.amazon.com/N2-Canned-Critters-Stuffed-Animal/dp/B010G76IFW
+productLink: https://amzn.to/2QMLtLq
 price: $15.88
 tags:
 - cheap

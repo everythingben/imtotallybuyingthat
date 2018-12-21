@@ -2,7 +2,7 @@
 title: Bacon Bandages
 date: 2018-12-18 09:33:46
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/81GpmpfFl4L._SY679_.jpg
-productLink: https://www.amazon.com/Accoutrements-11476-Bacon-Strips-Bandages/dp/B000SSV8AA
+productLink: https://amzn.to/2GJGq9I
 price: $6.29
 tags:
 - useful

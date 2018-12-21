@@ -2,7 +2,7 @@
 title: Unicorn Meat
 date: 2018-12-17 14:53:25
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/51Ok0UGbDOL.jpg
-productLink: https://www.amazon.com/ThinkGeek-Easy-Open-Canned-Unicorn-Meat/dp/B0089KZPNU
+productLink: https://amzn.to/2rOLIGM
 price: $17.00
 tags:
 - funny
