@@ -87,7 +87,7 @@ html body {
           display: block;
           margin: auto;
           max-height: 250px;
-          max-width: 180px; }
+          max-width: 100%; }
         html body #content #masonryContainer .listCard .tileFooter {
           display: flex;
           align-items: center;
@@ -116,7 +116,7 @@ html body {
           justify-content: center; }
           html body #content .postWrapper .wrapper .flexContainer img {
             max-height: 400px;
-            max-width: 400px; }
+            max-width: 100%; }
           html body #content .postWrapper .wrapper .flexContainer .postContent {
             max-width: 500px;
             padding-left: 30px; }
@@ -163,7 +163,7 @@ html body {
         display: block;
         margin: auto;
         max-height: 250px;
-        max-width: 180px; }
+        max-width: 100%; }
       html body #content .smallPostWrapper .tileFooter {
         display: flex;
         align-items: center;
