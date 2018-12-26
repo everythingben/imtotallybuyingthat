@@ -2,8 +2,31 @@ html body {
   margin: 0;
   background-color: #f0f0f0;
   font-family: "Open Sans", Arial, Helvetica, sans-serif; }
+  html body #menu {
+    background-color: white;
+    position: fixed;
+    left: 0;
+    right: 0;
+    display: none;
+    z-index: 200;
+    box-shadow: -5px 3px 15px rgba(57, 63, 72, 0.3); }
+    html body #menu.isVisible {
+      display: block; }
+    html body #menu ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0; }
+      html body #menu ul li {
+        padding: 10px 0 10px 20px;
+        margin: 0;
+        border-top: 1px solid #666666; }
+        html body #menu ul li:last-child {
+          border-bottom: none; }
+        html body #menu ul li a {
+          text-decoration: none;
+          color: black;
+          font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif; }
   html body #siteHeader {
-    border-bottom: 1px solid #666666;
     box-shadow: -5px 3px 15px rgba(57, 63, 72, 0.3);
     position: -webkit-sticky;
     position: sticky;
@@ -14,6 +37,29 @@ html body {
     text-transform: uppercase;
     padding: 20px 0;
     top: 0; }
+    html body #siteHeader #menuButtonContainer {
+      display: none;
+      position: absolute;
+      justify-content: center;
+      height: 100%;
+      flex-direction: column;
+      padding: 0;
+      margin: 0;
+      top: 0;
+      left: 20px; }
+      html body #siteHeader #menuButtonContainer button {
+        background-color: transparent;
+        border: none;
+        padding: 0;
+        margin: 0;
+        cursor: pointer;
+        outline: none;
+        line-height: 0; }
+        html body #siteHeader #menuButtonContainer button img {
+          width: 20px; }
+      @media only screen and (max-width: 600px) {
+        html body #siteHeader #menuButtonContainer {
+          display: flex; } }
     html body #siteHeader h1 {
       margin: 0;
       padding: 0;

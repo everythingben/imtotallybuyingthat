@@ -8,6 +8,7 @@
         <meta name="description" content="A big list of weird things for sale on Amazon. The perfect place to buy weird gifts for friends, family, or yourself.">
         <meta name="og:description" content="A big list of weird things for sale on Amazon. The perfect place to buy weird gifts for friends, family, or yourself.">
         <link rel="stylesheet" href="/css/style.css">
+        <script src="/js/main.js"></script>
         <!-- <script src="https://unpkg.com/infinite-scroll@3/dist/infinite-scroll.pkgd.min.js"></script> -->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
         <link href="https://fonts.googleapis.com/css?family=Oswald:400,500,600,700" rel="stylesheet">
@@ -15,6 +16,9 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/frontendsophie/hexo-infinite-scroll@1.0.0/dist/hexo-infinite-scroll.min.css">
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125571077-3"></script>
+        <script>
+            window.onload = setUpClickListener();
+        </script>
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -25,8 +29,19 @@
     </head>
     <body>
         <div id="siteHeader">
+            <div id="menuButtonContainer">
+                <button id="menuButton" onclick="openMenu()"><img src="data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJiYXJzIiBjbGFzcz0ic3ZnLWlubGluZS0tZmEgZmEtYmFycyBmYS13LTE0IiByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQ0OCA1MTIiPjxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTE2IDEzMmg0MTZjOC44MzcgMCAxNi03LjE2MyAxNi0xNlY3NmMwLTguODM3LTcuMTYzLTE2LTE2LTE2SDE2QzcuMTYzIDYwIDAgNjcuMTYzIDAgNzZ2NDBjMCA4LjgzNyA3LjE2MyAxNiAxNiAxNnptMCAxNjBoNDE2YzguODM3IDAgMTYtNy4xNjMgMTYtMTZ2LTQwYzAtOC44MzctNy4xNjMtMTYtMTYtMTZIMTZjLTguODM3IDAtMTYgNy4xNjMtMTYgMTZ2NDBjMCA4LjgzNyA3LjE2MyAxNiAxNiAxNnptMCAxNjBoNDE2YzguODM3IDAgMTYtNy4xNjMgMTYtMTZ2LTQwYzAtOC44MzctNy4xNjMtMTYtMTYtMTZIMTZjLTguODM3IDAtMTYgNy4xNjMtMTYgMTZ2NDBjMCA4LjgzNyA3LjE2MyAxNiAxNiAxNnoiPjwvcGF0aD48L3N2Zz4="></button>
+            </div>
             <h1><a href="/">Weird Things for Sale</a></h1>
             <ul id="filterList">
+                <li><a href="/funny">Funny</a></li>
+                <li><a href="/useful">Useful</a></li>
+                <li><a href="/cheap">Under $20</a></li>
+                <li><a href="/wtf">WTF?</a></li>
+            </ul>
+        </div>
+        <div id="menu">
+            <ul>
                 <li><a href="/funny">Funny</a></li>
                 <li><a href="/useful">Useful</a></li>
                 <li><a href="/cheap">Under $20</a></li>
