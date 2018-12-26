@@ -1,223 +1,225 @@
-html body {
-  margin: 0;
-  background-color: #f0f0f0;
-  font-family: "Open Sans", Arial, Helvetica, sans-serif; }
-  html body #menu {
-    background-color: white;
-    position: fixed;
-    left: 0;
-    right: 0;
-    display: none;
-    z-index: 200;
-    box-shadow: -5px 3px 15px rgba(57, 63, 72, 0.3); }
-    html body #menu.isVisible {
-      display: block; }
-    html body #menu ul {
-      list-style-type: none;
-      margin: 0;
-      padding: 0; }
-      html body #menu ul li {
-        padding: 10px 0 10px 20px;
-        margin: 0;
-        border-top: 1px solid #666666; }
-        html body #menu ul li:last-child {
-          border-bottom: none; }
-        html body #menu ul li a {
-          text-decoration: none;
-          color: black;
-          font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
-          font-size: 1rem; }
-  html body #siteHeader {
-    box-shadow: -5px 3px 15px rgba(57, 63, 72, 0.3);
-    position: -webkit-sticky;
-    position: sticky;
-    text-align: center;
-    background-color: white;
-    z-index: 100;
-    font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
-    text-transform: uppercase;
-    padding: 20px 0;
-    top: 0; }
-    html body #siteHeader #menuButtonContainer {
+html {
+  -webkit-text-size-adjust: none; }
+  html body {
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif; }
+    html body #menu {
+      background-color: white;
+      position: fixed;
+      left: 0;
+      right: 0;
       display: none;
-      position: absolute;
-      justify-content: center;
-      height: 100%;
-      flex-direction: column;
-      padding: 0;
-      margin: 0;
-      top: 0;
-      left: 20px; }
-      html body #siteHeader #menuButtonContainer button {
-        background-color: transparent;
-        border: none;
+      z-index: 200;
+      box-shadow: -5px 3px 15px rgba(57, 63, 72, 0.3); }
+      html body #menu.isVisible {
+        display: block; }
+      html body #menu ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0; }
+        html body #menu ul li {
+          padding: 10px 0 10px 20px;
+          margin: 0;
+          border-top: 1px solid #666666; }
+          html body #menu ul li:last-child {
+            border-bottom: none; }
+          html body #menu ul li a {
+            text-decoration: none;
+            color: black;
+            font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 1rem; }
+    html body #siteHeader {
+      box-shadow: -5px 3px 15px rgba(57, 63, 72, 0.3);
+      position: -webkit-sticky;
+      position: sticky;
+      text-align: center;
+      background-color: white;
+      z-index: 100;
+      font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
+      text-transform: uppercase;
+      padding: 20px 0;
+      top: 0; }
+      html body #siteHeader #menuButtonContainer {
+        display: none;
+        position: absolute;
+        justify-content: center;
+        height: 100%;
+        flex-direction: column;
         padding: 0;
         margin: 0;
-        cursor: pointer;
-        outline: none;
-        line-height: 0; }
-        html body #siteHeader #menuButtonContainer button img {
-          width: 1rem; }
-      @media only screen and (max-width: 600px) {
-        html body #siteHeader #menuButtonContainer {
-          display: flex; } }
-    html body #siteHeader h1 {
-      margin: 0;
-      padding: 0;
-      font-weight: 500;
-      font-size: 1.5rem; }
-      @media only screen and (max-width: 600px) {
-        html body #siteHeader h1 {
-          font-size: 1.3rem; } }
-      html body #siteHeader h1 a {
-        text-decoration: none;
-        color: black; }
-    html body #siteHeader #filterList {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
-      margin-top: 10px; }
-      @media only screen and (max-width: 600px) {
-        html body #siteHeader #filterList {
-          display: none; } }
-      html body #siteHeader #filterList li {
-        display: inline;
-        padding: 0px 10px;
-        border-right: 2px solid black; }
-        html body #siteHeader #filterList li:last-child {
-          border-right: none; }
-        html body #siteHeader #filterList li a {
+        top: 0;
+        left: 20px; }
+        html body #siteHeader #menuButtonContainer button {
+          background-color: transparent;
+          border: none;
+          padding: 0;
+          margin: 0;
+          cursor: pointer;
+          outline: none;
+          line-height: 0; }
+          html body #siteHeader #menuButtonContainer button img {
+            width: 1rem; }
+        @media only screen and (max-width: 600px) {
+          html body #siteHeader #menuButtonContainer {
+            display: flex; } }
+      html body #siteHeader h1 {
+        margin: 0;
+        padding: 0;
+        font-weight: 500;
+        font-size: 1.5rem; }
+        @media only screen and (max-width: 600px) {
+          html body #siteHeader h1 {
+            font-size: 1.3rem; } }
+        html body #siteHeader h1 a {
           text-decoration: none;
-          color: black;
-          font-size: 1.2rem; }
-  html body .productLink {
-    border-radius: 3px;
-    text-decoration: none;
-    background-color: black;
-    color: white;
-    padding: 8px;
-    float: right;
-    font-size: 0.9rem; }
-  html body #content {
-    max-width: 1200px;
-    top: 140px;
-    left: 0;
-    right: 0;
-    margin: 30px auto 40px auto; }
-    @media only screen and (max-width: 600px) {
-      html body #content {
-        top: 95px; } }
-    html body #content #masonryContainer {
-      display: grid;
-      grid-gap: 30px;
-      justify-content: center;
-      grid-template-columns: repeat(auto-fit, 250px); }
-      @media only screen and (max-width: 530px) {
-        html body #content #masonryContainer {
-          grid-template-columns: repeat(auto-fit, 100%);
-          padding: 0 20px; } }
-      html body #content #masonryContainer .listCard {
+          color: black; }
+      html body #siteHeader #filterList {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        margin-top: 10px; }
+        @media only screen and (max-width: 600px) {
+          html body #siteHeader #filterList {
+            display: none; } }
+        html body #siteHeader #filterList li {
+          display: inline;
+          padding: 0px 10px;
+          border-right: 2px solid black; }
+          html body #siteHeader #filterList li:last-child {
+            border-right: none; }
+          html body #siteHeader #filterList li a {
+            text-decoration: none;
+            color: black;
+            font-size: 1.2rem; }
+    html body .productLink {
+      border-radius: 3px;
+      text-decoration: none;
+      background-color: black;
+      color: white;
+      padding: 8px;
+      float: right;
+      font-size: 0.9rem; }
+    html body #content {
+      max-width: 1200px;
+      top: 140px;
+      left: 0;
+      right: 0;
+      margin: 30px auto 40px auto; }
+      @media only screen and (max-width: 600px) {
+        html body #content {
+          top: 95px; } }
+      html body #content #masonryContainer {
+        display: grid;
+        grid-gap: 30px;
+        justify-content: center;
+        grid-template-columns: repeat(auto-fit, 250px); }
+        @media only screen and (max-width: 530px) {
+          html body #content #masonryContainer {
+            grid-template-columns: repeat(auto-fit, 100%);
+            padding: 0 20px; } }
+        html body #content #masonryContainer .listCard {
+          background-color: white;
+          border-radius: 3px;
+          padding: 20px;
+          display: flex;
+          flex-direction: column; }
+          html body #content #masonryContainer .listCard .title {
+            text-align: center;
+            font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 1.5rem;
+            font-weight: normal; }
+            html body #content #masonryContainer .listCard .title a {
+              text-decoration: none;
+              color: black; }
+          html body #content #masonryContainer .listCard img {
+            display: block;
+            margin: auto;
+            max-height: 250px;
+            max-width: 100%; }
+          html body #content #masonryContainer .listCard .tileFooter {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-top: 1px solid #666666;
+            padding-top: 20px; }
+            html body #content #masonryContainer .listCard .tileFooter .price {
+              font-weight: 600;
+              font-size: 1.1rem; }
+      html body #content .postWrapper {
+        text-align: center; }
+        @media only screen and (max-width: 600px) {
+          html body #content .postWrapper {
+            display: none; } }
+        html body #content .postWrapper .wrapper {
+          text-align: left;
+          padding: 40px;
+          background-color: white;
+          margin-bottom: 20px;
+          margin-left: 20px;
+          margin-right: 20px;
+          border-radius: 3px;
+          display: inline-block; }
+          html body #content .postWrapper .wrapper .flexContainer {
+            display: flex;
+            justify-content: center; }
+            html body #content .postWrapper .wrapper .flexContainer img {
+              max-height: 400px;
+              max-width: 100%; }
+            html body #content .postWrapper .wrapper .flexContainer .postContent {
+              max-width: 500px;
+              padding-left: 30px; }
+              html body #content .postWrapper .wrapper .flexContainer .postContent .title {
+                font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 1.5rem;
+                font-weight: normal; }
+                html body #content .postWrapper .wrapper .flexContainer .postContent .title a {
+                  text-decoration: none;
+                  color: black; }
+              html body #content .postWrapper .wrapper .flexContainer .postContent .tileFooter {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                border-top: 1px solid #666666;
+                padding-top: 20px; }
+                html body #content .postWrapper .wrapper .flexContainer .postContent .tileFooter .price {
+                  font-weight: bold;
+                  font-size: 1.1rem;
+                  padding-right: 30px; }
+      html body #content .smallPostWrapper {
         background-color: white;
         border-radius: 3px;
-        padding: 20px;
-        display: flex;
-        flex-direction: column; }
-        html body #content #masonryContainer .listCard .title {
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 20px; }
+        @media only screen and (min-width: 601px) {
+          html body #content .smallPostWrapper {
+            display: none; } }
+        html body #content .smallPostWrapper .title {
           text-align: center;
           font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
           font-size: 1.5rem;
           font-weight: normal; }
-          html body #content #masonryContainer .listCard .title a {
+          html body #content .smallPostWrapper .title a {
             text-decoration: none;
             color: black; }
-        html body #content #masonryContainer .listCard img {
+        html body #content .smallPostWrapper .description {
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis; }
+        html body #content .smallPostWrapper img {
           display: block;
           margin: auto;
           max-height: 250px;
           max-width: 100%; }
-        html body #content #masonryContainer .listCard .tileFooter {
+        html body #content .smallPostWrapper .tileFooter {
           display: flex;
           align-items: center;
           justify-content: space-between;
           border-top: 1px solid #666666;
-          padding-top: 20px; }
-          html body #content #masonryContainer .listCard .tileFooter .price {
-            font-weight: 600;
+          padding-top: 20px;
+          margin-top: 20px; }
+          html body #content .smallPostWrapper .tileFooter .price {
+            font-weight: bold;
             font-size: 1.1rem; }
-    html body #content .postWrapper {
-      text-align: center; }
-      @media only screen and (max-width: 600px) {
-        html body #content .postWrapper {
-          display: none; } }
-      html body #content .postWrapper .wrapper {
-        text-align: left;
-        padding: 40px;
-        background-color: white;
-        margin-bottom: 20px;
-        margin-left: 20px;
-        margin-right: 20px;
-        border-radius: 3px;
-        display: inline-block; }
-        html body #content .postWrapper .wrapper .flexContainer {
-          display: flex;
-          justify-content: center; }
-          html body #content .postWrapper .wrapper .flexContainer img {
-            max-height: 400px;
-            max-width: 100%; }
-          html body #content .postWrapper .wrapper .flexContainer .postContent {
-            max-width: 500px;
-            padding-left: 30px; }
-            html body #content .postWrapper .wrapper .flexContainer .postContent .title {
-              font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
-              font-size: 1.5rem;
-              font-weight: normal; }
-              html body #content .postWrapper .wrapper .flexContainer .postContent .title a {
-                text-decoration: none;
-                color: black; }
-            html body #content .postWrapper .wrapper .flexContainer .postContent .tileFooter {
-              display: flex;
-              align-items: center;
-              justify-content: space-between;
-              border-top: 1px solid #666666;
-              padding-top: 20px; }
-              html body #content .postWrapper .wrapper .flexContainer .postContent .tileFooter .price {
-                font-weight: bold;
-                font-size: 1.1rem;
-                padding-right: 30px; }
-    html body #content .smallPostWrapper {
-      background-color: white;
-      border-radius: 3px;
-      margin-bottom: 20px;
-      margin-left: 20px;
-      margin-right: 20px;
-      padding: 20px; }
-      @media only screen and (min-width: 601px) {
-        html body #content .smallPostWrapper {
-          display: none; } }
-      html body #content .smallPostWrapper .title {
-        text-align: center;
-        font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
-        font-size: 1.5rem;
-        font-weight: normal; }
-        html body #content .smallPostWrapper .title a {
-          text-decoration: none;
-          color: black; }
-      html body #content .smallPostWrapper .description {
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis; }
-      html body #content .smallPostWrapper img {
-        display: block;
-        margin: auto;
-        max-height: 250px;
-        max-width: 100%; }
-      html body #content .smallPostWrapper .tileFooter {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        border-top: 1px solid #666666;
-        padding-top: 20px;
-        margin-top: 20px; }
-        html body #content .smallPostWrapper .tileFooter .price {
-          font-weight: bold;
-          font-size: 1.1rem; }
