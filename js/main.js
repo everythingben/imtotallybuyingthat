@@ -1,6 +1,6 @@
 function toggleMenu(event) {
     if (event.type === 'click') {
-        document.removeEventListener('touchstart', toggleMenu);
+        document.removeEventListener('touchend', toggleMenu);
     } else {
         document.removeEventListener('click', toggleMenu);
     }
@@ -15,6 +15,6 @@ function toggleMenu(event) {
     }
 }
 function setUpClickListener() {
-    document.addEventListener('touchstart', toggleMenu);
+    document.addEventListener('touchend', toggleMenu);
     document.addEventListener('click', toggleMenu);
 }

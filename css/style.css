@@ -24,12 +24,14 @@ html {
           margin: 0;
           padding: 0; }
           html body #headerMenuContainer #menu ul li {
-            padding: 10px 0 10px 20px;
             margin: 0;
             border-top: 1px solid #666666; }
             html body #headerMenuContainer #menu ul li:last-child {
               border-bottom: none; }
             html body #headerMenuContainer #menu ul li a {
+              padding: 10px 0 10px 20px;
+              display: inline-block;
+              width: 100%;
               text-decoration: none;
               color: black;
               font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
