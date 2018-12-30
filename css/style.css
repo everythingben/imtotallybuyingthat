@@ -116,7 +116,7 @@ html {
         display: grid;
         grid-gap: 20px;
         justify-content: center;
-        grid-template-columns: repeat(auto-fit, 250px); }
+        grid-template-columns: repeat(auto-fit, 350px); }
         @media only screen and (max-width: 530px) {
           html body #content #masonryContainer {
             grid-template-columns: repeat(auto-fit, 100%);
@@ -135,11 +135,16 @@ html {
             html body #content #masonryContainer .listCard .title a {
               text-decoration: none;
               color: black; }
-          html body #content #masonryContainer .listCard img {
+          html body #content #masonryContainer .listCard .imageLink {
             display: block;
             margin: auto;
-            max-height: 250px;
-            max-width: 100%; }
+            width: 100%; }
+            html body #content #masonryContainer .listCard .imageLink img {
+              display: block;
+              margin: auto;
+              max-height: 250px;
+              max-width: 100%;
+              padding: 10px; }
           html body #content #masonryContainer .listCard .tileFooter {
             display: flex;
             align-items: center;
@@ -167,6 +172,7 @@ html {
             display: flex;
             justify-content: center; }
             html body #content .postWrapper .wrapper .flexContainer img {
+              padding: 10px;
               max-height: 400px;
               max-width: 100%; }
             html body #content .postWrapper .wrapper .flexContainer .postContent {
@@ -186,7 +192,7 @@ html {
                 border-top: 1px solid #666666;
                 padding-top: 20px; }
                 html body #content .postWrapper .wrapper .flexContainer .postContent .tileFooter .price {
-                  font-weight: bold;
+                  font-weight: 600;
                   font-size: 1.1rem;
                   padding-right: 30px; }
       html body #content .smallPostWrapper {
@@ -212,6 +218,7 @@ html {
           overflow: hidden;
           text-overflow: ellipsis; }
         html body #content .smallPostWrapper img {
+          padding: 10px;
           display: block;
           margin: auto;
           max-height: 250px;
@@ -224,5 +231,5 @@ html {
           padding-top: 20px;
           margin-top: 20px; }
           html body #content .smallPostWrapper .tileFooter .price {
-            font-weight: bold;
+            font-weight: 600;
             font-size: 1.1rem; }
