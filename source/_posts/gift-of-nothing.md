@@ -1,7 +1,7 @@
 ---
 title: The Gift of Nothing
 date: 2018-12-18 09:26:41
-imageUrl: https://images-na.ssl-images-amazon.com/images/I/51DrpLpUp1L._SX679_.jpg
+imageUrl: ./img/gift-of-nothing.jpg
 productLink: https://amzn.to/2Bx96gC
 price: $9.43
 tags:
