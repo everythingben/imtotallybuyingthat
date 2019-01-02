@@ -1,7 +1,7 @@
 ---
 title: Edible Insects
 productLink: https://amzn.to/2Lw7wQL
-imageUrl: ./img/edible-insects.jpg
+imageUrl: https://images-na.ssl-images-amazon.com/images/I/71y4vhh%2BVjL._SY450_.jpg
 date: 2018-12-17 16:49:05
 price: $13.99
 tags:

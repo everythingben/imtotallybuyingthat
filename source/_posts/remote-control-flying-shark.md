@@ -1,7 +1,7 @@
 ---
 title: Remote Control Flying Shark
 date: 2018-12-29 14:12:34
-imageUrl: ./img/remote-control-flying-shark.jpg
+imageUrl: https://images-na.ssl-images-amazon.com/images/I/51lpk-ITdeL._SX522_.jpg
 productLink: https://amzn.to/2RpwgiW
 price: $34.97
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Pure White Hell Jigsaw Puzzle
 date: 2018-12-29 14:13:44
-imageUrl: ./img/white-hell-jigsaw-puzzle.jpg
+imageUrl: https://images-na.ssl-images-amazon.com/images/I/91AC-jbMPsL._SX522_.jpg
 productLink: https://amzn.to/2Riyqkn
 price: $23.99
 tags:

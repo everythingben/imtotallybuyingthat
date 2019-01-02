@@ -1,7 +1,7 @@
 ---
 title: Dad Belly Fanny Pack
 date: 2018-12-29 14:12:58
-imageUrl: ./img/dad-belly-fanny-pack.jpg
+imageUrl: https://images-na.ssl-images-amazon.com/images/I/51g79iKytLL._UX425_.jpg
 productLink: https://amzn.to/2LJauS4
 price: $12.98
 tags:

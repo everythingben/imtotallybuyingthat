@@ -1,7 +1,7 @@
 ---
 title: Death Star Waffle Maker
 date: 2018-12-18 09:31:36
-imageUrl: ./img/death-star-waffle-maker.jpg
+imageUrl: https://images-na.ssl-images-amazon.com/images/I/61pnj4Go-4L._SX522_.jpg
 productLink: https://amzn.to/2GBWlXG
 tags:
 - edible

@@ -1,7 +1,7 @@
 ---
 title: Bathing Ducky Anatomy
 date: 2018-12-29 14:12:22
-imageUrl: ./img/bathing-ducky-anatomy.jpg
+imageUrl: https://images-na.ssl-images-amazon.com/images/I/8180IJXeCtL._SX425_.jpg
 productLink: https://amzn.to/2LFs9Kd
 price: $19.95
 tags:
