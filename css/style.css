@@ -3,8 +3,11 @@ html {
   html body {
     padding-bottom: 1px;
     margin: 0;
+    height: 100vh;
     background-color: #f0f0f0;
-    font-family: "Open Sans", Arial, Helvetica, sans-serif; }
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column; }
     html body #headerMenuContainer {
       position: -webkit-sticky;
       position: fixed;
@@ -53,12 +56,11 @@ html {
           flex-direction: column;
           padding: 0;
           margin: 0;
-          top: 0;
-          left: 20px; }
+          top: 0; }
           html body #headerMenuContainer #siteHeader #menuButtonContainer button {
             background-color: transparent;
             border: none;
-            padding: 0;
+            padding: 20px;
             margin: 0;
             cursor: pointer;
             outline: none;
@@ -233,3 +235,10 @@ html {
           html body #content .smallPostWrapper .tileFooter .price {
             font-weight: 600;
             font-size: 1.1rem; }
+    html body #main {
+      flex-grow: 1; }
+    html body #footer {
+      text-align: center;
+      padding: 20px; }
+      html body #footer span {
+        display: block; }
