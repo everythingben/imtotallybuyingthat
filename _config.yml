@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://weirdthingsforsale.com
+url: http://imtotallybuyingthat.com
 root: /
 permalink: :title/
 permalink_defaults:
@@ -79,5 +79,5 @@ theme: jackpot
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/everythingben/weirdthingsforsale.git
+  repo: https://github.com/everythingben/imtotallybuyingthat.git
   branch: master
