@@ -2,6 +2,7 @@
 title: Fried Egg T-Shirt
 date: 2018-12-29 14:13:11
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61spgGBF9BL._UX466_.jpg
+thumbnail: https://images-na.ssl-images-amazon.com/images/I/61spgGBF9BL._SR600,315__.jpg
 productLink: https://amzn.to/2VjopCp
 price: $18.70
 tags:
