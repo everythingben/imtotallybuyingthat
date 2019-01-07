@@ -4,7 +4,7 @@ html {
     padding-bottom: 1px;
     margin: 0;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: #f9f9f9;
     font-family: "Open Sans", Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: column; }
@@ -125,6 +125,7 @@ html {
             padding: 0 20px; } }
         html body #content #masonryContainer .listCard {
           background-color: white;
+          border: 1px solid #efefef;
           border-radius: 3px;
           padding: 20px;
           display: flex;
@@ -220,7 +221,6 @@ html {
           overflow: hidden;
           text-overflow: ellipsis; }
         html body #content .smallPostWrapper img {
-          padding: 10px;
           display: block;
           margin: auto;
           max-height: 250px;
