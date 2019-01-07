@@ -3,7 +3,7 @@ title: Bathing Ducky Anatomy
 date: 2018-12-29 14:12:22
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/8180IJXeCtL._SX425_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/8180IJXeCtL._SR600,315__.jpg
-productLink: https://amzn.to/2LFs9Kd
+productLink: https://amzn.to/2C6G5IL
 price: $19.95
 tags:
 - funny

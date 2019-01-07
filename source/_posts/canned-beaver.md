@@ -3,7 +3,7 @@ title: Canned Beaver
 date: 2018-12-18 09:23:57
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/81XSmCBvYSL._SY450_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81XSmCBvYSL._SR600,315_.jpg
-productLink: https://amzn.to/2QMLtLq
+productLink: https://amzn.to/2C98xJY
 price: $15.88
 tags:
 - cheap
