@@ -109,7 +109,7 @@ html {
       font-size: 0.9rem; }
     html body #content {
       max-width: 1200px;
-      padding-top: 140px;
+      padding-top: 150px;
       margin: 0 auto 20px auto; }
       @media only screen and (max-width: 600px) {
         html body #content {
