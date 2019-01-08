@@ -3,7 +3,7 @@ title: Carolina Reaper Tortilla Chip
 date: 2019-01-05 22:27:22
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61cRUBr32zL._SX522_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61cRUBr32zL._SR600,315_.jpg
-productLink: https://amzn.to/2sbOZQE
+productLink: https://amzn.to/2GZjVOb
 price: $149.99
 tags:
 - wtf

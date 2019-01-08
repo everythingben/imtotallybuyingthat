@@ -3,7 +3,7 @@ title: Rainbow Water Beads
 date: 2019-01-05 14:38:23
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/71FyjCHInoL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71FyjCHInoL._SR600,315_.jpg
-productLink: https://amzn.to/2CXaxH7
+productLink: https://amzn.to/2FlGb2G
 price: $6.99
 tags:
 - cheap

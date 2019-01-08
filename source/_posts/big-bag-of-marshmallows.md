@@ -4,7 +4,7 @@ date: 2019-01-06 09:49:02
 price: $44.99
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/71%2BId5xst0L._SX522_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71%2BId5xst0L._SR600,315_.jpg
-productLink: https://amzn.to/2CRWLWa
+productLink: https://amzn.to/2SE64hW
 tags:
 - wtf
 ---

@@ -3,7 +3,7 @@ title: Pure White Hell Jigsaw Puzzle
 date: 2018-12-29 14:13:44
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/91AC-jbMPsL._SX522_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/91AC-jbMPsL._SR600,315_.jpg
-productLink: https://amzn.to/2RykH8X
+productLink: https://amzn.to/2LX6OvN
 price: $23.99
 tags:
 - funny

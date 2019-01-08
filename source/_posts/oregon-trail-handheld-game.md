@@ -1,7 +1,7 @@
 ---
 title: Oregon Trail Handheld Game
 date: 2019-01-08 15:19:52
-productLink: https://amzn.to/2C87jPh
+productLink: https://amzn.to/2C9pALX
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/71WxiKON98L._SY879_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71WxiKON98L._SR600,315_.jpg
 price: $19.97

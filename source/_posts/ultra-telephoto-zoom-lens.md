@@ -4,7 +4,7 @@ date: 2019-01-05 23:42:19
 price: $25,999.00
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/51im0AiAR%2BL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51im0AiAR%2BL._SR600,315_.jpg
-productLink: https://amzn.to/2SMawLi
+productLink: https://amzn.to/2LZoV4y
 tags:
 - wtf
 

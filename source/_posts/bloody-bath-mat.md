@@ -4,7 +4,7 @@ date: 2019-01-06 09:19:07
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/71dBuLAgl0L._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71dBuLAgl0L._SR600,315_.jpg
 price: $14.99
-productLink: https://amzn.to/2SFNUMy
+productLink: https://amzn.to/2FiIHXa
 tags:
 - cheap
 - useful

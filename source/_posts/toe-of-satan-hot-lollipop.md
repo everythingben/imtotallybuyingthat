@@ -1,7 +1,7 @@
 ---
 title: Toe of Satan Hot Lollipop
 date: 2019-01-06 10:08:19
-productLink: https://amzn.to/2SDmXcl
+productLink: https://amzn.to/2Cb8JbX
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61Dg7%2BIXzhL._SY679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61Dg7%2BIXzhL._SR600,315_.jpg
 price: $7.69

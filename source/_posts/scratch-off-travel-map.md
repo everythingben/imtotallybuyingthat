@@ -2,7 +2,7 @@
 title: Scratch-Off Travel Map
 date: 2019-01-06 10:18:11
 price: $29.99
-productLink: https://amzn.to/2VAru1o
+productLink: https://amzn.to/2CbvL22
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/A1NJPotcjSL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/A1NJPotcjSL._SR600,315_.jpg
 ---

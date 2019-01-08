@@ -3,7 +3,7 @@ title: Unicorn Meat
 date: 2018-12-17 14:53:25
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/51Ok0UGbDOL._SY450_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51Ok0UGbDOL._SR600,315_.jpg
-productLink: https://amzn.to/2REdCnk
+productLink: https://amzn.to/2SHAtvK
 price: $17.00
 tags:
 - funny

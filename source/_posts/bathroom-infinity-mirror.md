@@ -1,7 +1,7 @@
 ---
 title: Bathroom Infinity Mirror
 date: 2019-01-06 09:25:38
-productLink: https://amzn.to/2SMaTFG
+productLink: https://amzn.to/2SO5DSk
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/71C%2B7jrWksL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71C%2B7jrWksL._SR600,315_.jpg
 price: $319.99

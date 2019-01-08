@@ -4,7 +4,7 @@ date: 2019-01-06 10:47:44
 price: $45.00
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61R2ti48hOL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61R2ti48hOL._SR600,315_.jpg
-productLink: https://amzn.to/2CTCFe8
+productLink: https://amzn.to/2LZ1Pee
 tags:
 - useful
 ---

@@ -3,7 +3,7 @@ title: Death Star Waffle Maker
 date: 2018-12-18 09:31:36
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61pnj4Go-4L._SX522_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61pnj4Go-4L._SR600,315__.jpg
-productLink: https://amzn.to/2C2YFSg
+productLink: https://amzn.to/2SJx0Nl
 tags:
 - edible
 - useful

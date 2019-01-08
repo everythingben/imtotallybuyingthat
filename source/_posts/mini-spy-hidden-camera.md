@@ -4,7 +4,7 @@ date: 2019-01-05 23:34:19
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/51SN6LdcG9L._SL1101_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51SN6LdcG9L._SR600,315_.jpg
 price: $36.99
-productLink: https://amzn.to/2VBrQ7A
+productLink: https://amzn.to/2H18RAd
 tags:
 - useful
 

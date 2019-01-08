@@ -3,7 +3,7 @@ title: Bottle Cap Launcher
 date: 2019-01-06 10:01:26
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/81eDJHhMNCL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81eDJHhMNCL._SR600,315_.jpg
-productLink: https://amzn.to/2SA5iSW
+productLink: https://amzn.to/2H1Z4dm
 price: $6.99
 tags:
 - cheap

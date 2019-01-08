@@ -1,7 +1,7 @@
 ---
 title: Arcade Button Light Switch
 date: 2019-01-06 10:32:06
-productLink: https://amzn.to/2GUN4du
+productLink: https://amzn.to/2SHzz2k
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/91KlJ29oxOL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/91KlJ29oxOL._SR600,315_.jpg
 price: $9.99

@@ -1,7 +1,7 @@
 ---
 title: 3-in-1 Breakfast Station
 date: 2019-01-06 09:31:01
-productLink: https://amzn.to/2CTM6dx
+productLink: https://amzn.to/2REKi07
 price: $64.62
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/91f8KT-vKhL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/91f8KT-vKhL._SR600,315_.jpg
