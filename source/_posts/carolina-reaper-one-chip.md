@@ -7,7 +7,7 @@ productLink: https://amzn.to/2GZjVOb
 price: $149.99
 tags:
 - wtf
-
+- edible
 ---
 
 Yep, this is a single tortilla chip seasoned with the Carolina Reaper, one of the spiciest peppers on the planet. It may not fill you up, but it will knock you flat on your ass and command the respect of friends and family. A great gift for an adventurous snacker or masochist.

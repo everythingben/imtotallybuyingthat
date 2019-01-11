@@ -9,6 +9,7 @@ tags:
 - wtf
 - cheap
 - funny
+- edible
 ---
 
 One red lollipop made with chili extract. 9 million scoville units (that's a lot of heat).

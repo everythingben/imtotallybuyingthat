@@ -7,6 +7,7 @@ thumbnail: https://images-na.ssl-images-amazon.com/images/I/71%2BId5xst0L._SR600
 productLink: https://amzn.to/2SE64hW
 tags:
 - wtf
+- edible
 ---
 
 Why are there never enough marshmallows in your cereal? Maybe because they've been hiding in these GIANT BAGS! Two 4-pound bags of dehydrated cereal marshmallows come in each order.
