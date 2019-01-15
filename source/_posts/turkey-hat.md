@@ -5,6 +5,7 @@ productLink: https://amzn.to/2SSlBdR
 price: $4.37
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/81tK8hwfpKL._UY879_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81tK8hwfpKL._SR600,315_.jpg
+alt: Turkey hat for costume parties, Halloween or Thanksgiving
 tags:
 - cheap
 - wtf

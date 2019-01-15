@@ -5,6 +5,7 @@ productLink: https://amzn.to/2Cb8JbX
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61Dg7%2BIXzhL._SY679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61Dg7%2BIXzhL._SR600,315_.jpg
 price: $7.69
+alt: Toe of Satan Hot Lollipop 9 million Scoville
 tags:
 - wtf
 - cheap

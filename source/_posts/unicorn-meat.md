@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/51Ok0UGbDOL._SY450_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51Ok0UGbDOL._SR600,315_.jpg
 productLink: https://amzn.to/2SHAtvK
 price: $17.00
+alt: Funny joke unicorn meat in a can
 tags:
 - funny
 - cheap

@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/31TjjQLqzIL._SY450_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/31TjjQLqzIL._SR600,315_.jpg
 productLink: https://amzn.to/2Fi6OFv
 price: $59.96
+alt: Funny yodeling pickle
 tags:
 - funny
 - wtf

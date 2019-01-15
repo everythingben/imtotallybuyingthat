@@ -5,6 +5,7 @@ productLink: https://amzn.to/2RHHZtf
 price: $109.99
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/713foPLf9BL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/713foPLf9BL._SR600,315_.jpg
+alt: Cool, modern, industrial steampunk metal pipe chandelier for sale online
 tags:
 - useful
 ---

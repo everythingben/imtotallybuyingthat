@@ -5,6 +5,7 @@ productLink: https://amzn.to/2D8DShy
 price: $12.70
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61ann444HyL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61ann444HyL._SR600,315_.jpg
+alt: Paper boat tea infuser made of silicone
 tags:
 - cheap
 - useful

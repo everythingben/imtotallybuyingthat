@@ -5,6 +5,7 @@ productLink: https://amzn.to/2SJflVT
 price: $12.99
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61OxOnsMfzL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61OxOnsMfzL._SR600,315_.jpg
+alt: Salvador Dali melting clock for mantel or shelf
 tags:
 - useful
 ---

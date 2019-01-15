@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/81GpmpfFl4L._SY679_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81GpmpfFl4L._SR600,315_.jpg
 productLink: https://amzn.to/2CbLfDi
 price: $6.29
+alt: A weird, funny gift of bacon bandages to buy on Amazon.
 tags:
 - useful
 - wtf

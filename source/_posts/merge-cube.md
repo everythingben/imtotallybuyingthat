@@ -5,6 +5,7 @@ productLink: https://amzn.to/2AJhqu6
 price: $13.95
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/71u164G6QzL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71u164G6QzL._SR600,315_.jpg
+alt: Merge Cube for augmented reality and virtual reality would be a great gift for kids
 tags:
 - cheap
 ---

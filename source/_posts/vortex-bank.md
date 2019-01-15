@@ -5,6 +5,7 @@ productLink: https://amzn.to/2TMJOlQ
 price: $16.87
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/41cy7RERF7L.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/41cy7RERF7L._SR600,315_.jpg
+alt: Vortex bank for rolling pennies and other coins
 tags:
 - cheap
 - useful

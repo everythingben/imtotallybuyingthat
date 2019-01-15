@@ -5,6 +5,7 @@ productLink: https://amzn.to/2VQsyy0
 price: $29.99
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/71SaJtD%2BqhL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71SaJtD%2BqhL._SR600,315_.jpg
+alt: Sushi pushpins for an office gift
 tags:
 - useful
 ---

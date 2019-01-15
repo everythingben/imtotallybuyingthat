@@ -5,6 +5,7 @@ productLink: https://amzn.to/2FrEtN0
 price: $10.99
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/71TtgTzJ8kL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71TtgTzJ8kL._SR600,315_.jpg
+alt: Bucket of Dehydrated Water to give as a funny joke present
 tags:
 - cheap
 - funny

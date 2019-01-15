@@ -5,6 +5,7 @@ productLink: https://amzn.to/2M6doAr
 price: $7.38
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61F1Jq4yfGL.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61F1Jq4yfGL._SR600,315_.jpg
+alt: Finger weightlifting kit for sale online
 tags:
 - cheap
 - wtf

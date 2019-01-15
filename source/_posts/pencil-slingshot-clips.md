@@ -5,6 +5,7 @@ productLink: https://amzn.to/2RFnqxz
 price: $9.99
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/91cAUrJbAFL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/91cAUrJbAFL._SR600,315_.jpg
+alt: Funny pencil slingshot clips you can buy on Amazon
 tags:
 - cheap
 - funny

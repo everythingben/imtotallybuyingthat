@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/71ijXdsFfcL._SX679_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71ijXdsFfcL._SR600,315_.jpg
 price: $11.99
 productLink: https://amzn.to/2SHtnr5
+alt: Strings of tiny twinkling fairy lights
 tags:
 - cheap
 ---

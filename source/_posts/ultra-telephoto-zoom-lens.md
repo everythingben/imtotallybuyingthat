@@ -5,6 +5,7 @@ price: $25,999.00
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/51im0AiAR%2BL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51im0AiAR%2BL._SR600,315_.jpg
 productLink: https://amzn.to/2LZoV4y
+alt: Giant Ultra Telephoto Zoom Lens for Canon DSLR
 tags:
 - wtf
 

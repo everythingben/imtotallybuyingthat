@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/91AC-jbMPsL._SX522_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/91AC-jbMPsL._SR600,315_.jpg
 productLink: https://amzn.to/2LX6OvN
 price: $23.99
+alt: Very hard pure white hell jigsaw puzzle with 1000 pieces
 tags:
 - funny
 - wtf

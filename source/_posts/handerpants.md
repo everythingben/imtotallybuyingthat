@@ -5,6 +5,7 @@ productLink: https://amzn.to/2RQ0iwA
 price: $11.94
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/51-D8O-TLWL.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51-D8O-TLWL._SR600,315_.jpg
+alt: Underwear for your hands to wear under gloves or as a joke gift
 tags:
 - cheap
 - wtf

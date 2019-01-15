@@ -5,6 +5,7 @@ productLink: https://amzn.to/2RBVLxp
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61%2Bv3sUr76L._UX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61%2Bv3sUr76L._SR600,315_.jpg
 price: $15.58
+alt: A creepy, funny crying baby mask you can buy online.
 tags:
 - cheap
 - wtf

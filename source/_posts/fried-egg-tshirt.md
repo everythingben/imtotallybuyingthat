@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/61spgGBF9BL._UX466_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61spgGBF9BL._SR600,315__.jpg
 productLink: https://amzn.to/2M0fFwK
 price: $18.70
+alt: A funny realistic fried egg t-shirt you can purchase at Amazon
 tags:
 - useful
 ---

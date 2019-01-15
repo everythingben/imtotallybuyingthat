@@ -5,6 +5,7 @@ productLink: https://amzn.to/2SWfllH
 price: $38.00
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/510g-cwJNBL.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/510g-cwJNBL._SR600,315_.jpg
+alt: USB-powered desktop fridge for soda cans
 tags:
 - useful
 ---

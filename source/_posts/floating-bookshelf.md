@@ -5,6 +5,7 @@ price: $14.38
 productLink: https://amzn.to/2M2ZAq6
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/81K650aMgLL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81K650aMgLL._SR600,315_.jpg
+tag: A floating bookshelf for your room that you can buy online
 tags:
 - cheap
 - useful

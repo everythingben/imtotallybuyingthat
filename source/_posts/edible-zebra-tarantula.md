@@ -5,6 +5,7 @@ productLink: https://amzn.to/2M5uyhy
 price: $23.74
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/51I0BiyeroL._SY679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51I0BiyeroL._SR600,315_.jpg
+alt: An edible zebra tarantula in a can
 tags:
 - edible
 - wtf

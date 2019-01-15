@@ -5,6 +5,7 @@ price: $14.98
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/912J-wDjghL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/912J-wDjghL._SR600,315_.jpg
 productLink: https://amzn.to/2RDz8J2
+alt: Thumb wrestling ring for pros
 tags:
 - cheap
 - funny

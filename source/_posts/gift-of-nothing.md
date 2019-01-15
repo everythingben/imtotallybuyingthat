@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/51DrpLpUp1L._SY450_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51DrpLpUp1L._SR600,315_.jpg
 productLink: https://amzn.to/2RA0IXM
 price: $9.43
+alt: The gift of nothing
 tags:
 - wtf
 - funny

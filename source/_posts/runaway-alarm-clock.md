@@ -5,6 +5,7 @@ productLink: https://amzn.to/2FA9ui7
 price: $23.76
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61r6eAPr-eL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61r6eAPr-eL._SR600,315_.jpg
+alt: Loud runaway alarm clock with wheels
 tags:
 - useful
 ---

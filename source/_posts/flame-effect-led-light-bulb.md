@@ -5,6 +5,7 @@ price: $15.79
 productLink: https://amzn.to/2RDOgGn
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61RV-Qv388L._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61RV-Qv388L._SR600,315_.jpg
+alt: Flame effect LED light bulb with realistic flickering
 tags:
 - useful
 ---

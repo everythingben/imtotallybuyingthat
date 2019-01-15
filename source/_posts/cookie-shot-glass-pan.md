@@ -5,6 +5,7 @@ productLink: https://amzn.to/2M9l84s
 price: $15.71
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/91x4rXfPSFL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/91x4rXfPSFL._SR600,315_.jpg
+alt: Cookie shot glasses you can make using this pan, for sale on Amazon.
 tags:
 - cheap
 - useful

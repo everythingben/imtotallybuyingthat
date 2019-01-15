@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/61cRUBr32zL._SX522_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61cRUBr32zL._SR600,315_.jpg
 productLink: https://amzn.to/2GZjVOb
 price: $149.99
+alt: One single spicy Carolina Reaper chip you can buy as a gift on Amazon.
 tags:
 - wtf
 - edible

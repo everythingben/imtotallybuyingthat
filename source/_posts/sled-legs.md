@@ -5,6 +5,7 @@ productLink: https://amzn.to/2SOTsEL
 price: $52.95
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/617TNySLUQL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/617TNySLUQL._SR600,315_.jpg
+alt: Sled legs for easy sledding downhill in the snow
 tags:
 - funny
 ---

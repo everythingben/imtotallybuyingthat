@@ -5,6 +5,7 @@ productLink: https://amzn.to/2RHHi37
 price: $17.98
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/71aVyrdIP4L._SX522_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71aVyrdIP4L._SR600,315_.jpg
+alt: Delicious black truffle hot sauce for sale on Amazon.
 tags:
 - cheap
 - edible

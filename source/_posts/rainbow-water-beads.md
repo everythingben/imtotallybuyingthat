@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/71FyjCHInoL._SX679_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71FyjCHInoL._SR600,315_.jpg
 productLink: https://amzn.to/2FlGb2G
 price: $6.99
+alt: Rainbow water beads for decoration or kids birthday party play time
 tags:
 - cheap
 ---

@@ -5,6 +5,7 @@ productLink: https://amzn.to/2M2JiO5
 price: $251.79
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/41la6CT4qwL.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/41la6CT4qwL._SR600,315_.jpg
+alt: Cool modern tabletop fireplace made of glass and steel
 tags:
 - useful
 ---

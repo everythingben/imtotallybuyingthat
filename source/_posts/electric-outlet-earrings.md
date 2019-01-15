@@ -5,6 +5,7 @@ productLink: https://amzn.to/2RDCn3l
 price: $14.99
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/81MhMiAp11L._SY500_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81MhMiAp11L._SR600,315_.jpg
+alt: Electric outlet earrings that could be a great weird gift
 tags:
 - cheap
 - wtf

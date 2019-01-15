@@ -5,6 +5,7 @@ productLink: https://amzn.to/2AGhdHV
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/41iddrm8MaL.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/41iddrm8MaL._SR600,315_.jpg
 price: $39.95
+alt: Gallium melting metal for kids science projects and birthdays
 tags:
 - wtf
 ---

@@ -5,6 +5,7 @@ productLink: https://amzn.to/2RPvjjU
 price: $47.98
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/41LA72jZcnL.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/41LA72jZcnL._SR600,315_.jpg
+alt: Survival multitool
 tags:
 - useful
 ---

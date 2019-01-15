@@ -5,6 +5,7 @@ productLink: https://amzn.to/2M4po5h
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/51QhwCUGXbL.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51QhwCUGXbL._SR600,315_.jpg
 price: $39.99
+alt: Planet lollipops to buy online
 tags:
 - edible
 ---

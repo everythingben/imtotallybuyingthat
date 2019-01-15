@@ -5,6 +5,7 @@ price: $38.99
 productLink: https://amzn.to/2REDWxI
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/81IjKR4z5wL._UY879_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81IjKR4z5wL._SR600,315_.jpg
+alt: Inflatable Dinosaur T-Rex Tyrannosaurus costume for sale online
 tags:
 - funny
 ---

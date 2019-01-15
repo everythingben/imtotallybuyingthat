@@ -4,6 +4,7 @@ date: 2019-01-06 10:54:55
 productLink: https://amzn.to/2C6vTA1
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/71Ydl3%2B8QyL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71Ydl3%2B8QyL._SR600,315_.jpg
+alt: An aquarium to buy at Amazon that looks like a tiny hotel
 price: $36.00
 ---
 

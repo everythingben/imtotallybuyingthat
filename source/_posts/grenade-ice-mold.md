@@ -5,6 +5,7 @@ productLink: https://amzn.to/2VOPrlx
 price: $14.49
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/81Xgt7DHhfL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81Xgt7DHhfL._SR600,315_.jpg
+alt: Grenade ice cube mold for military themed party or cocktail happy hour
 tags:
 - cheap
 - useful

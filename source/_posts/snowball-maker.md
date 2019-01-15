@@ -5,6 +5,7 @@ productLink: https://amzn.to/2SJgpJn
 price: $4.58
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61zJypQuFuL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61zJypQuFuL._SR600,315_.jpg
+alt: Snowball maker to buy as cheap gift
 tags:
 - funny
 - cheap

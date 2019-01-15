@@ -5,6 +5,7 @@ price: $45.00
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61R2ti48hOL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61R2ti48hOL._SR600,315_.jpg
 productLink: https://amzn.to/2LZ1Pee
+alt: Steampunk radio vacuum tube USB drive
 tags:
 - useful
 ---

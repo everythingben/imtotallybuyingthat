@@ -5,6 +5,7 @@ productLink: https://amzn.to/2M7Zzl6
 price: $6.02
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/81g1n7o450L._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81g1n7o450L._SR600,315_.jpg
+alt: Heart pancake egg rings as a baking gift for the kitchen
 tags:
 - cheap
 ---

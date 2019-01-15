@@ -5,6 +5,7 @@ productLink: https://amzn.to/2SNRvIG
 price: $24.29
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/91fHuXN-d-L._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/91fHuXN-d-L._SR600,315_.jpg
+alt: Obsessive chef bamboo cutting board with lines and guides
 tags:
 - useful
 ---

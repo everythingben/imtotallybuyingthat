@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/61Pz5zJdgaL._SY450_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61Pz5zJdgaL._SR600,315_.jpg
 productLink: https://amzn.to/2VA3Uln
 price: $5.39
+alt: Grow a boyfriend by adding water
 tags:
 - funny
 - cheap

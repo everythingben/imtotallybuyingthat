@@ -5,6 +5,7 @@ productLink: https://amzn.to/2C9pALX
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/71WxiKON98L._SY879_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71WxiKON98L._SR600,315_.jpg
 price: $19.97
+alt: Oregon Trail handheld game
 tags:
 - cheap
 ---

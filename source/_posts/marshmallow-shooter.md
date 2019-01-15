@@ -5,6 +5,7 @@ productLink: https://amzn.to/2VImhVj
 price: $22.95
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61DL7Q25jlL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61DL7Q25jlL._SR600,315_.jpg
+alt: Marshmallow shooter gun that could be a good gift for a kid's birthday party
 tags:
 - funny
 ---

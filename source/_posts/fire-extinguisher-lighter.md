@@ -5,6 +5,7 @@ price: $5.86
 productLink: https://amzn.to/2ACEZEA
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/81c6jrXkwUL._SX522_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81c6jrXkwUL._SR600,315_.jpg
+alt: A lighter that looks like a tiny fire extinguisher that you can buy as a funny present
 tags:
 - cheap
 - useful

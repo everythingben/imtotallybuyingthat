@@ -5,6 +5,7 @@ price: $16.95
 productLink: https://amzn.to/2H43lwS
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/51fbv8ZWMcL.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51fbv8ZWMcL._SR600,315_.jpg
+alt: Giant bubble kit for sale on Amazon
 tags:
 - cheap
 ---

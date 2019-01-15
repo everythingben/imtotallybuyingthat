@@ -5,6 +5,7 @@ productLink: https://amzn.to/2VJMXF1
 price: $28.39
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/6191EyKd6-L._SY879_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/6191EyKd6-L._SR600,315_.jpg
+alt: Otamatone funny weird musical instrument
 tags:
 - funny
 - wtf

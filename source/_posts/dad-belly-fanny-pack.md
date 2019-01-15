@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/51g79iKytLL._UX425_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51g79iKytLL._SR600,315__.jpg
 productLink: https://amzn.to/2C7PQGE
 price: $12.98
+alt: Dad belly fanny pack
 tags:
 - funny
 - wtf

@@ -5,6 +5,7 @@ productLink: https://amzn.to/2M6Qskl
 price: $29.95
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/81x6OHxbOTL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81x6OHxbOTL._SR600,315_.jpg
+alt: Drop Shot drinking game for parties
 tags:
 - wtf
 - funny

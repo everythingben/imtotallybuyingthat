@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/51SN6LdcG9L._SL1101_.
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51SN6LdcG9L._SR600,315_.jpg
 price: $36.99
 productLink: https://amzn.to/2H18RAd
+alt: Mini spy hidden security camera to use as a nanny cam
 tags:
 - useful
 

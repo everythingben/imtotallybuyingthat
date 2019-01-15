@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/51jYWiTLoQL._SX679_.j
 productLink: https://amzn.to/2M0hx8U
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51jYWiTLoQL._SR600,315_.jpg
 price: $8.75
+alt: Portable USB-powered fan to give as an office gift
 tags:
 - cheap
 - useful

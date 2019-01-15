@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/71dBuLAgl0L._SX679_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71dBuLAgl0L._SR600,315_.jpg
 price: $14.99
 productLink: https://amzn.to/2FiIHXa
+alt: A bath mat that turns bloody red when wet, a scary creepy product to buy online.
 tags:
 - cheap
 - useful

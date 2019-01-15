@@ -5,6 +5,7 @@ productLink: https://amzn.to/2AKUvOT
 price: $27.99
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/A1RJESjnAeL._SX522_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/A1RJESjnAeL._SR600,315_.jpg
+alt: Box of Korean snacks to buy on Amazon
 tags:
 - edible
 ---

@@ -5,6 +5,7 @@ productLink: https://amzn.to/2HcL6pc
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/91vUPKU9%2B1L._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/91vUPKU9%2B1L._SR600,315_.jpg
 price: $8.99
+alt: Praying mantis egg cases as natural insecticide or gardening gift
 tags:
 - wtf
 - cheap
@@ -15,4 +16,4 @@ Each of these two praying mantis egg cases produce approximately 200 baby mantid
 
 Kids will love them. Garden pests will hate them -- they are often used as a natural pesticide.
 
-Just place the egg cases anywhere,then watch them hatch and grow.
+Just place the egg cases anywhere, then watch them hatch and grow.

@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/81XSmCBvYSL._SY450_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81XSmCBvYSL._SR600,315_.jpg
 productLink: https://amzn.to/2RAMMNa
 price: $15.88
+alt: A funny prank can of beaver.
 tags:
 - cheap
 - funny

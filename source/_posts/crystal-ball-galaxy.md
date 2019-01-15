@@ -5,6 +5,7 @@ productLink: https://amzn.to/2ABPok5
 price: $14.99
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61qzY9zlvZL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61qzY9zlvZL._SR600,315_.jpg
+alt: A crystal ball galaxy for sale online.
 tags:
 - cheap
 ---

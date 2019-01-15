@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/51lpk-ITdeL._SX522_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/51lpk-ITdeL._SR600,315_.jpg
 productLink: https://amzn.to/2CbwkZI
 price: $34.97
+alt: Remote control flying shark
 tags:
 - funny
 ---

@@ -5,6 +5,7 @@ productLink: https://amzn.to/2VGMyDh
 price: $9.95
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61-dvjwdeDL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61-dvjwdeDL._SR600,315_.jpg
+alt: Infinity fidget cube
 tags:
 - cheap
 ---

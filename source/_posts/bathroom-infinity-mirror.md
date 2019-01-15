@@ -5,6 +5,7 @@ productLink: https://amzn.to/2SO5DSk
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/71C%2B7jrWksL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71C%2B7jrWksL._SR600,315_.jpg
 price: $319.99
+alt: Bathroom infinity mirror
 tags:
 - useful
 ---

@@ -5,6 +5,7 @@ productLink: https://amzn.to/2M2zLqo
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61-1KY01PIL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61-1KY01PIL._SR600,315_.jpg
 price: $20.20
+tag: Weird geeky gift of brain specimen coasters.
 tags:
 - wtf
 - useful

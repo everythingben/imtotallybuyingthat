@@ -5,6 +5,7 @@ productLink: https://amzn.to/2VLXrDZ
 price: $89.99
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/81vFZTXs%2B-L._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81vFZTXs%2B-L._SR600,315_.jpg
+alt: A pint glass with an embedded bullet, weird but cool gift for sale at Amazon.
 tags:
 - wtf
 ---

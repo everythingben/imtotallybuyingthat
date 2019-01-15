@@ -5,6 +5,7 @@ productLink: https://amzn.to/2VAOOvT
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/61FUSyZXowL._SL1500_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/61FUSyZXowL._SR600,315_.jpg
 price: $15.49
+alt: Barbasol can safe to buy online just like Jurassic Park
 tags:
 - cheap
 - useful

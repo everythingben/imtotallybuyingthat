@@ -5,6 +5,7 @@ imageUrl: https://images-na.ssl-images-amazon.com/images/I/81eDJHhMNCL._SX679_.j
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/81eDJHhMNCL._SR600,315_.jpg
 productLink: https://amzn.to/2H1Z4dm
 price: $6.99
+alt: Bottle cap launcher to buy on Amazon
 tags:
 - cheap
 - useful

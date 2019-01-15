@@ -5,6 +5,7 @@ productLink: https://amzn.to/2RCvDTe
 price: $34.99
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/71lO0Vw2a2L._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/71lO0Vw2a2L._SR600,315_.jpg
+alt: A Darth Vader toaster that would be a usefull, funny, weird kitchen gift
 tags:
 - funny
 - wtf

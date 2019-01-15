@@ -5,6 +5,7 @@ productLink: https://amzn.to/2SHzz2k
 imageUrl: https://images-na.ssl-images-amazon.com/images/I/91KlJ29oxOL._SX679_.jpg
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/91KlJ29oxOL._SR600,315_.jpg
 price: $9.99
+alt: An arcade button light switch for sale on Amazon.
 tags:
 - cheap
 - useful
@@ -12,7 +13,7 @@ tags:
 ---
 
 Relive the golden age of gaming! This retro light switch adds a whimsical touch to any room in the house.
-    
+
 * Available in a variety of colors.
 * Easy to clean.
 * Makes a great gift for kids and nostalgiac adults.
