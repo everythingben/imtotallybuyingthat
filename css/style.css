@@ -266,6 +266,15 @@ html {
           html body #content .smallPostWrapper .tileFooter .price {
             font-weight: 600;
             font-size: 1.1rem; }
+    html body #mainFooter {
+      max-width: 1000px;
+      margin: auto;
+      padding: 0 40px; }
+      html body #mainFooter h1, html body #mainFooter h2 {
+        font-family: "Oswald", Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 500; }
+      html body #mainFooter a {
+        text-decoration: none; }
     html body #main {
       flex-grow: 1; }
     html body #footer {
