@@ -61,7 +61,7 @@ html {
           right: 0;
           top: 0;
           margin: 0; }
-          @media only screen and (max-width: 600px) {
+          @media only screen and (max-width: 800px) {
             html body #headerMenuContainer #siteHeader #socialLinksContainer {
               display: none; } }
           html body #headerMenuContainer #siteHeader #socialLinksContainer #socialLinks {
@@ -96,7 +96,7 @@ html {
             line-height: 0; }
             html body #headerMenuContainer #siteHeader #menuButtonContainer button img {
               width: 1rem; }
-          @media only screen and (max-width: 600px) {
+          @media only screen and (max-width: 800px) {
             html body #headerMenuContainer #siteHeader #menuButtonContainer {
               display: flex; } }
         html body #headerMenuContainer #siteHeader h1 {
@@ -104,7 +104,7 @@ html {
           padding: 0;
           font-weight: 500;
           font-size: 2rem; }
-          @media only screen and (max-width: 600px) {
+          @media only screen and (max-width: 800px) {
             html body #headerMenuContainer #siteHeader h1 {
               font-size: 1.4rem; } }
           html body #headerMenuContainer #siteHeader h1 a {
@@ -115,7 +115,7 @@ html {
           margin: 0;
           padding: 0;
           margin-top: 10px; }
-          @media only screen and (max-width: 600px) {
+          @media only screen and (max-width: 800px) {
             html body #headerMenuContainer #siteHeader #filterList {
               display: none; } }
           html body #headerMenuContainer #siteHeader #filterList li {
@@ -140,7 +140,7 @@ html {
       max-width: 1200px;
       padding-top: 110px;
       margin: 0 auto 20px auto; }
-      @media only screen and (max-width: 600px) {
+      @media only screen and (max-width: 800px) {
         html body #content {
           padding-top: 95px; } }
       html body #content #pageNav {
@@ -189,7 +189,7 @@ html {
               font-size: 1.1rem; }
       html body #content .postWrapper {
         text-align: center; }
-        @media only screen and (max-width: 600px) {
+        @media only screen and (max-width: 800px) {
           html body #content .postWrapper {
             display: none; } }
         html body #content .postWrapper .wrapper {
@@ -236,7 +236,7 @@ html {
         margin-left: 20px;
         margin-right: 20px;
         padding: 20px; }
-        @media only screen and (min-width: 601px) {
+        @media only screen and (min-width: 801px) {
           html body #content .smallPostWrapper {
             display: none; } }
         html body #content .smallPostWrapper .title {
